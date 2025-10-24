@@ -63,7 +63,7 @@
 ### 🚀 Estatísticas
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Louiz404&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Louiz404&theme=tokyonight" />
 </p>
 
 ---
